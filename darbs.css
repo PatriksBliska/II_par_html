@@ -1,11 +1,15 @@
-{
-   background-color: aquamarine; 
-}
-{
+body {
+    background-color: cyan;
+  }
+h1 {
     color: rgb(226, 34, 130);
-    text-decoration-skip:red ;
+    background-color:purple;
 }
 table, th, td {
     border: 3px dotted;
+    padding: 3px;
+  }
+  img {
+    border-radius: 50%;
   }
   
